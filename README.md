@@ -210,4 +210,4 @@ WinOFF is offered as a full free version, including all features and updates. Th
 Take control of your computer's power management today with WinOFF! Download now and experience the convenience of automated shutdowns!
 
 ---
-**Last updated:** 2026-09-22 10:35:52 UTC
+**Last updated:** 2026-09-22 15:16:01 UTC
